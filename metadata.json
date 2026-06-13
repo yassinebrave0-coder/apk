@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "An elegant, high-fidelity iOS-style calculator with a sleek dark theme, responsive key hover feedback, operator highlighting, and touch backspace gestures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
